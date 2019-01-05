@@ -1,0 +1,8 @@
+<root>
+    <result time="200">
+        <value id="lenght">33.3</value>
+        <value id="score">1.00</value>
+    </result>
+	<foo alias="lava" name="Vzgo">
+	</foo>
+</root>
